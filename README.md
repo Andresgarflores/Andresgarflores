@@ -10,9 +10,9 @@ Hello, I'm Andrés. Currently, I'm coursing a specialized program in data analys
 
 ## Hard Skills
 
-- SQL           - HTML
-- Python        - CSS
-- Chat GPT      - Java 
+- SQL             - HTML
+- Python          - CSS
+- Chat GPT        - Java 
   
 
 

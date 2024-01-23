@@ -4,9 +4,16 @@ Hello, I'm Andrés. Currently, I'm coursing a specialized program in data analys
 
 ## Knoledges
 
-* HTML
-* CSS
-* Java
+- HTML
+- CSS
+- Java
+
+## Hard Skills
+
+- SQL           - HTML
+- Python        - CSS
+- Chat GPT      - Java 
+  
 
 
 
